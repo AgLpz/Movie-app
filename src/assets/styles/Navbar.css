@@ -1,0 +1,77 @@
+.navbarContainer{
+    display: flex;
+    height: 64px;
+    justify-content: space-between;
+    background-color: #FFFFFF;
+    align-items: center;
+    margin-bottom: 56px;
+}
+
+.imgContainer{
+    margin-left: 80px;
+}
+.btnContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;   
+     width: 132px;                              /* tiene que ser 131px pero pienso solucionar a futuro */
+    height: 32px;
+    background-color: #66CCCC;
+    border-radius: 20px;
+    padding: 0px 24px;
+    
+    
+    
+}
+.btnContainer a {
+    font-size: 14px;
+    font-family: 'Inter';
+    align-items: center;
+    text-decoration: none;
+    line-height: 157.15%;
+    color: rgba(255, 255, 255, 0.85);
+
+
+}
+.tdtLogo {
+width: 70.4px;
+height: 32px;
+}
+.searchContainer{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+}
+
+.inputSearch {
+    border: 1px solid #BFE8E8;
+    border-radius: 4px;
+    width: 330px;
+    height: 32px;
+
+}
+
+.inputBtn{
+    display: flex;
+    margin-left: 5px;
+    background-color:#66CCCC ;
+    border-radius: 20px;
+    width: 34px;
+    height: 32px;
+    align-items: center;
+    justify-content: center;
+}
+
+.searchBtn{
+   font-size: 5px;
+   background-color:#66CCCC ;
+   padding:10px;
+    cursor: pointer;
+    border: none;
+    background-repeat: no-repeat;
+
+
+}
