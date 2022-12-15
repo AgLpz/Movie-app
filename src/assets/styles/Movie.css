@@ -1,0 +1,66 @@
+/* .descriptionContainer{
+    margin-left: 30px;
+}
+.movie{
+    display: flex;
+}
+
+.imgContainer .img {
+    width: 565px;
+height: 690px;
+}
+.title{
+    font-size: 48px!important;
+    font-family: 'Inter';
+    color: rgba(28, 28, 28, 0.85);
+}
+.genreList{
+    display: flex;
+}
+.genreList li {
+    list-style: none;
+    color: #FFFF;
+    font-size: 20px;
+    background: rgba(102, 204, 204, 0.76);
+border-radius: 7px;
+    padding: 9px;
+margin: 10px;
+}
+.descritpionText{
+font-size: 24px;
+color: rgba(75, 75, 75, 1);
+
+line-height: 157.15%;
+
+}
+
+ .presupuesto, .lanzamiento, .duracion, .valoracion {
+font-size: 24px;
+color: rgba(75, 75, 75, 1);
+margin-top: 24px;
+
+
+}
+
+ span{
+    font-size: 24px;
+    font-weight: Bold;
+    color: rgba(75, 75, 75, 1);
+    
+    
+    }
+.descriptionContainer{
+    display: flex;
+    align-items: flex-start;
+    margin: 10px 70px;
+}
+
+.languages li{
+    list-style: none;
+    margin-top: 24px;
+    color: #FFFF;
+    font-size: 20px;
+    background: rgba(102, 204, 204, 0.76);
+border-radius: 7px;
+    padding: 9px;
+} */
